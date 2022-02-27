@@ -1,2 +1,2 @@
-# Calculator-1
+# Calculator
 Created with CodeSandbox
